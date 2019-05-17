@@ -31,6 +31,8 @@
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman       | mdbeckman                 |  <https://mdbeckman.github.io/>                    |  
 | Matt | mdbeckman | some website |
+| Adam Sullivan | sullivanstatistics | |
+|Leigh Johnson | drleigh | |
 | Bradford | dykesb | <https://dykesb.github.io> |
 
 <br>
